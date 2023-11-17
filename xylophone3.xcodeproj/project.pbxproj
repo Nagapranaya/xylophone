@@ -13,6 +13,13 @@
 		A68DDEC52B079AEC009AE8CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A68DDEC32B079AEC009AE8CC /* Main.storyboard */; };
 		A68DDEC72B079AEE009AE8CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A68DDEC62B079AEE009AE8CC /* Assets.xcassets */; };
 		A68DDECA2B079AEE009AE8CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A68DDEC82B079AEE009AE8CC /* LaunchScreen.storyboard */; };
+		A68DDED82B07B656009AE8CC /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = A68DDED12B07B655009AE8CC /* C.wav */; };
+		A68DDED92B07B656009AE8CC /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = A68DDED22B07B656009AE8CC /* B.wav */; };
+		A68DDEDA2B07B656009AE8CC /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = A68DDED32B07B656009AE8CC /* F.wav */; };
+		A68DDEDB2B07B656009AE8CC /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = A68DDED42B07B656009AE8CC /* G.wav */; };
+		A68DDEDC2B07B656009AE8CC /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = A68DDED52B07B656009AE8CC /* D.wav */; };
+		A68DDEDD2B07B656009AE8CC /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = A68DDED62B07B656009AE8CC /* A.wav */; };
+		A68DDEDE2B07B656009AE8CC /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = A68DDED72B07B656009AE8CC /* E.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +31,13 @@
 		A68DDEC62B079AEE009AE8CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A68DDEC92B079AEE009AE8CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A68DDECB2B079AEE009AE8CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A68DDED12B07B655009AE8CC /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		A68DDED22B07B656009AE8CC /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		A68DDED32B07B656009AE8CC /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		A68DDED42B07B656009AE8CC /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		A68DDED52B07B656009AE8CC /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		A68DDED62B07B656009AE8CC /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		A68DDED72B07B656009AE8CC /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +54,13 @@
 		A68DDEB12B079AEC009AE8CC = {
 			isa = PBXGroup;
 			children = (
+				A68DDED62B07B656009AE8CC /* A.wav */,
+				A68DDED22B07B656009AE8CC /* B.wav */,
+				A68DDED12B07B655009AE8CC /* C.wav */,
+				A68DDED52B07B656009AE8CC /* D.wav */,
+				A68DDED72B07B656009AE8CC /* E.wav */,
+				A68DDED32B07B656009AE8CC /* F.wav */,
+				A68DDED42B07B656009AE8CC /* G.wav */,
 				A68DDEBC2B079AEC009AE8CC /* xylophone3 */,
 				A68DDEBB2B079AEC009AE8CC /* Products */,
 			);
@@ -125,6 +146,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A68DDED82B07B656009AE8CC /* C.wav in Resources */,
+				A68DDED92B07B656009AE8CC /* B.wav in Resources */,
+				A68DDEDA2B07B656009AE8CC /* F.wav in Resources */,
+				A68DDEDB2B07B656009AE8CC /* G.wav in Resources */,
+				A68DDEDC2B07B656009AE8CC /* D.wav in Resources */,
+				A68DDEDD2B07B656009AE8CC /* A.wav in Resources */,
+				A68DDEDE2B07B656009AE8CC /* E.wav in Resources */,
 				A68DDECA2B079AEE009AE8CC /* LaunchScreen.storyboard in Resources */,
 				A68DDEC72B079AEE009AE8CC /* Assets.xcassets in Resources */,
 				A68DDEC52B079AEC009AE8CC /* Main.storyboard in Resources */,
